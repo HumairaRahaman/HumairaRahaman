@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Humaira Rahaman</h1>
-<h3 align="center">frontend developer</h3>
 </br>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" align="center" width = 100px></h2>
@@ -89,30 +88,13 @@
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abs-kawser1996&show_icons=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abs-kawser1996)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<br>
-
-
-  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?HumairaRahaman=anuraghazra&show_icons=true&theme=radical)
-  
-<div align="center">
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abs-kawser1996&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<br>
-<br>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abs-kawser1996&theme=dracula" />
-</a>
 
 
 <br>
 <br>
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abs-kawser1996)   -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=abs-kawser1996&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   
 </div>
