@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Humaira Rahaman</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">frontend developer</h3>
 </br>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" align="center" width = 100px></h2>
