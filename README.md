@@ -47,7 +47,6 @@
       </a>
       <br>Javascript
     </td>
-   
     <td align="center" width="96">
       <a href="#">
         <img src="https://camo.githubusercontent.com/faf0782d01ec9e993c2e258fa995f0fc9171a14969d2129bbf5a5816df7e7b62/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d69636f6e2e737667" width="48" height="48" alt="ReactJS" data-canonical-src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" style="max-width: 100%;">
@@ -66,8 +65,6 @@
       </a>
       <br>Bootstrap
     </td>
-   
-   
   </tr>
   <td align="center" width="96">
       <a href="#">
@@ -87,8 +84,7 @@
       </a>
       <br>Terminal
     </td>
-    
-    <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#">
         <img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" width="48" height="48" alt="TailwindCSS" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;">
       </a>
