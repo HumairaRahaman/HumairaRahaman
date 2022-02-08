@@ -20,6 +20,8 @@
 
 <p align="center">
 <img src="https://camo.githubusercontent.com/c8603029e1d7baade74d71c1823bdcdbaa61f08c2bf062a483e02e0f4ace034c/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966" data-canonical-src="https://i.giphy.com/RThN0hOS2GO4M.gif" style="max-width:100%;">
+  
+  <img src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" data-canonical-src="https://i.giphy.com/RThN0hOS2GO4M.gif" style="max-width:100%;">
 </p>
 
 - 🔭 I’m currently working on *dream project*
