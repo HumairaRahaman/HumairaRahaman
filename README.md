@@ -15,7 +15,7 @@
 
 - 💬 Ask me about *anything*
 
-- 📫 How to reach me: linkedin
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/humaira-rahaman/)
 
 - ⚡ Fun fact *I am not half-bad 😜*
 
