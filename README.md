@@ -109,6 +109,13 @@
 
 <br>
 <br>
+---
+<p align="center">
+<img src="https://img.shields.io/github/followers/HumairaRahaman?style=social">
+<img src="https://img.shields.io/github/stars/HumairaRahaman?style=social">
+</p>
+
+---
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abs-kawser1996)   -->
 
