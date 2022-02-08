@@ -2,6 +2,7 @@
 </br>
 
 ![](https://komarev.com/ghpvc/?username=HumairaRahaman&color=blue)
+<img src="https://img.shields.io/github/followers/HumairaRahaman?style=social">
 
 </br>
 
@@ -105,12 +106,8 @@
 <br>
 
 <p align="center">
-<img src="https://img.shields.io/github/followers/HumairaRahaman?style=social">
-<img src="https://img.shields.io/github/stars/HumairaRahaman?style=social">
+
+
 </p>
----
-
-
----
 
 
