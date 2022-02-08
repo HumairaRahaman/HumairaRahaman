@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Humaira Rahaman</h1>
 </br>
 
-![](https://komarev.com/ghpvc/?username=Humaira-Rahaman=blue)
+![](https://komarev.com/ghpvc/?username=HumairaRahaman&color=blue)
 
 </br>
 
