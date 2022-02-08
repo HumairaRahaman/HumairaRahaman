@@ -10,7 +10,6 @@
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" align="center" width = 100px></h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2Us4HKoTZkqyxKElV6/giphy.gif" width="300" data-canonical-src="https://intro.rustbridge.com/img/ferris.gif" style="max-width:100%;">
 <img src="https://camo.githubusercontent.com/9e342bd35a241b71d3e030508048a7afcd2152475a3def94e59473ea67d68ca8/68747470733a2f2f6c6974746c652e6b796c6572636f6e7761792e636f6d2f696d616765732f676f6c616e672d776861742e676966" width="300" data-canonical-src="https://little.kylerconway.com/images/golang-what.gif" style="max-width:100%;">
 
 <img src="https://media.giphy.com/media/YBzXwk2WEN8p1edkBi/giphy.gif" width="300" data-canonical-src="https://intro.rustbridge.com/img/ferris.gif" style="max-width:100%;">
