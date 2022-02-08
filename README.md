@@ -101,21 +101,16 @@
       <br>TailwindCSS
     </td>
 </tbody></table>
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abs-kawser1996&show_icons=true)  
-
-
-
-
 <br>
 <br>
----
+
 <p align="center">
 <img src="https://img.shields.io/github/followers/HumairaRahaman?style=social">
 <img src="https://img.shields.io/github/stars/HumairaRahaman?style=social">
 </p>
+---
+
 
 ---
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abs-kawser1996)   -->
 
