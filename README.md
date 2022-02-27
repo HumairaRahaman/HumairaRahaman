@@ -115,8 +115,5 @@
 
 
 
-![Snake animation](https://github.com/HumairaRahaman/HumairaRahaman/blob/output/github-contribution-grid-snake.svg)
-
-
 
 
