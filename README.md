@@ -111,6 +111,12 @@
 </p>
 
 
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HumairaRahaman_icons=true&theme=gotham" alt="preethamb97" />
+
+![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
