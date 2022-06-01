@@ -7,7 +7,7 @@
 </br>
 
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" align="center" width = 10px></h2>
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" align="center" style="width =10opx"></h2>
 
 <p align="center">
 <img src="https://camo.githubusercontent.com/9e342bd35a241b71d3e030508048a7afcd2152475a3def94e59473ea67d68ca8/68747470733a2f2f6c6974746c652e6b796c6572636f6e7761792e636f6d2f696d616765732f676f6c616e672d776861742e676966" width="300" data-canonical-src="https://little.kylerconway.com/images/golang-what.gif" style="max-width:100%;">
@@ -37,7 +37,7 @@
 
 <br>
 
-<h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  align="center" width = 32px> </h2>
+<h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  align="center" style"width = 32px"> </h2>
 
 <table>
   <tbody><tr>
