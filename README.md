@@ -26,7 +26,7 @@
 
 - 🔭 I’m currently working on *dream project*
 
-- 🌱 I’m currently learning *React,javaScript*
+- 🌱 I’m currently learning *php,javaScript*
 
 - 👯 I’m looking to collaborate *with other Developers*
 
